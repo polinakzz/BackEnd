@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab6\\lab6\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|solutionrelative:lab6\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab6\\lab6\\lab6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|solutionrelative:lab6\\lab6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab6\\lab6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|solutionrelative:lab6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab6\\lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{130C6371-B9BA-488B-B919-44B3F001E2BE}|Lab6\\Lab6.csproj|solutionrelative:lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab6",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\Lab6.csproj",
+              "RelativeDocumentMoniker": "Lab6\\Lab6.csproj",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\Lab6.csproj",
+              "RelativeToolTip": "Lab6\\Lab6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T08:25:51.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Lab6\\appsettings.Production.json",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\appsettings.Production.json",
+              "RelativeToolTip": "Lab6\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T08:18:10.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Lab6\\appsettings.Development.json",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\appsettings.Development.json",
+              "RelativeToolTip": "Lab6\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T08:12:00.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6\\Program.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\Program.cs",
+              "RelativeToolTip": "Lab6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:04:59.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab6\\appsettings.json",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab6\\Lab6\\appsettings.json",
+              "RelativeToolTip": "Lab6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T08:02:02.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
