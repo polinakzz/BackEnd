@@ -1,0 +1,1304 @@
+2025-04-24 11:25:57.236 +03:00 [INF] User profile is available. Using 'C:\Users\polin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-24 11:25:57.446 +03:00 [INF] Now listening on: https://localhost:7037
+2025-04-24 11:25:57.448 +03:00 [INF] Now listening on: http://localhost:5031
+2025-04-24 11:25:57.478 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-24 11:25:57.479 +03:00 [INF] Hosting environment: Development
+2025-04-24 11:25:57.480 +03:00 [INF] Content root path: D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7
+2025-04-24 11:25:58.371 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/ - null null
+2025-04-24 11:25:58.483 +03:00 [INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+2025-04-24 11:25:58.507 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+2025-04-24 11:25:58.514 +03:00 [INF] Открыта главная страница.
+2025-04-24 11:25:58.520 +03:00 [INF] Executing ViewResult, running view Index.
+2025-04-24 11:25:58.586 +03:00 [INF] Executed ViewResult - view Index executed in 66.9955ms.
+2025-04-24 11:25:58.591 +03:00 [INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 78.137ms
+2025-04-24 11:25:58.592 +03:00 [INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+2025-04-24 11:25:58.596 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/ - 200 null text/html; charset=utf-8 228.4931ms
+2025-04-24 11:25:58.603 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-04-24 11:25:58.603 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-04-24 11:25:58.603 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-24 11:25:58.603 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+2025-04-24 11:25:58.636 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-04-24 11:25:58.636 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+2025-04-24 11:25:58.700 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-04-24 11:25:58.700 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+2025-04-24 11:25:58.761 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.762 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.765 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.765 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.765 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.766 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 163.2951ms
+2025-04-24 11:25:58.768 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.814 +03:00 [INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+2025-04-24 11:25:58.814 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+2025-04-24 11:25:58.814 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+2025-04-24 11:25:58.814 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+2025-04-24 11:25:58.814 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+2025-04-24 11:25:58.819 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.815 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.816 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.817 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.817 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+2025-04-24 11:25:58.819 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.820 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 216.5163ms
+2025-04-24 11:25:58.820 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 184.2921ms
+2025-04-24 11:25:58.820 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 217.1649ms
+2025-04-24 11:25:58.821 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 121.1248ms
+2025-04-24 11:25:58.822 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:25:58.823 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 187.2515ms
+2025-04-24 11:25:58.824 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 123.5329ms
+2025-04-24 11:25:58.829 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 225.6599ms
+2025-04-24 11:26:57.866 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/home/index - null null
+2025-04-24 11:26:57.874 +03:00 [INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+2025-04-24 11:26:57.875 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+2025-04-24 11:26:57.876 +03:00 [INF] Открыта главная страница.
+2025-04-24 11:26:57.877 +03:00 [INF] Executing ViewResult, running view Index.
+2025-04-24 11:26:57.879 +03:00 [INF] Executed ViewResult - view Index executed in 2.3677ms.
+2025-04-24 11:26:57.880 +03:00 [INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 3.7805ms
+2025-04-24 11:26:57.880 +03:00 [INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+2025-04-24 11:26:57.881 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/home/index - 200 null text/html; charset=utf-8 15.0062ms
+2025-04-24 11:26:57.896 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-04-24 11:26:57.930 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+2025-04-24 11:26:57.896 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-04-24 11:26:57.896 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-24 11:26:57.930 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+2025-04-24 11:26:58.023 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.024 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 127.2868ms
+2025-04-24 11:26:58.019 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.020 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:57.963 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-04-24 11:26:57.968 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-04-24 11:26:57.974 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+2025-04-24 11:26:58.030 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+2025-04-24 11:26:58.033 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+2025-04-24 11:26:58.036 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.036 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.032 +03:00 [INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+2025-04-24 11:26:58.035 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.039 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.040 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 143.4049ms
+2025-04-24 11:26:58.041 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+2025-04-24 11:26:58.041 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.047 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+2025-04-24 11:26:58.047 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 151.2416ms
+2025-04-24 11:26:58.050 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.051 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 120.4461ms
+2025-04-24 11:26:58.051 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 77.7846ms
+2025-04-24 11:26:58.051 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.053 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 123.3657ms
+2025-04-24 11:26:58.057 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 88.87ms
+2025-04-24 11:26:58.069 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.071 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+2025-04-24 11:26:58.071 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:26:58.072 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 108.7593ms
+2025-04-24 11:33:52.684 +03:00 [INF] User profile is available. Using 'C:\Users\polin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-24 11:33:52.930 +03:00 [INF] Now listening on: https://localhost:7037
+2025-04-24 11:33:52.932 +03:00 [INF] Now listening on: http://localhost:5031
+2025-04-24 11:33:52.954 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-24 11:33:52.955 +03:00 [INF] Hosting environment: Development
+2025-04-24 11:33:52.956 +03:00 [INF] Content root path: D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7
+2025-04-24 11:33:53.463 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/ - null null
+2025-04-24 11:33:53.582 +03:00 [INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+2025-04-24 11:33:53.605 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+2025-04-24 11:33:53.608 +03:00 [INF] Открыта главная страница.
+2025-04-24 11:33:53.609 +03:00 [WRN] Предупреждение: что-то может пойти не так.
+2025-04-24 11:33:53.609 +03:00 [ERR] Сообщение об ошибке, приложение продолжает работу.
+2025-04-24 11:33:53.615 +03:00 [INF] Executing ViewResult, running view Index.
+2025-04-24 11:33:53.672 +03:00 [INF] Executed ViewResult - view Index executed in 58.9313ms.
+2025-04-24 11:33:53.676 +03:00 [INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 69.0569ms
+2025-04-24 11:33:53.677 +03:00 [INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+2025-04-24 11:33:53.681 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/ - 200 null text/html; charset=utf-8 220.7918ms
+2025-04-24 11:33:53.689 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-04-24 11:33:53.689 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+2025-04-24 11:33:53.689 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+2025-04-24 11:33:53.689 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-04-24 11:33:53.689 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-24 11:33:53.723 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-04-24 11:33:53.785 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-04-24 11:33:53.788 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+2025-04-24 11:33:53.837 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.837 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.837 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.838 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.841 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.843 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.845 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 156.0179ms
+2025-04-24 11:33:53.892 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+2025-04-24 11:33:53.892 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+2025-04-24 11:33:53.892 +03:00 [INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+2025-04-24 11:33:53.893 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+2025-04-24 11:33:53.893 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+2025-04-24 11:33:53.894 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.895 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.896 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.896 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+2025-04-24 11:33:53.898 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.898 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.899 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 210.3704ms
+2025-04-24 11:33:53.899 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 174.3818ms
+2025-04-24 11:33:53.900 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 211.609ms
+2025-04-24 11:33:53.901 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:33:53.903 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 213.8171ms
+2025-04-24 11:33:53.903 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 207.5632ms
+2025-04-24 11:33:53.904 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 115.9862ms
+2025-04-24 11:33:53.909 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 220.2822ms
+2025-04-24 11:34:04.386 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/home/index - null null
+2025-04-24 11:34:04.398 +03:00 [INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+2025-04-24 11:34:04.399 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+2025-04-24 11:34:04.400 +03:00 [INF] Открыта главная страница.
+2025-04-24 11:34:04.400 +03:00 [WRN] Предупреждение: что-то может пойти не так.
+2025-04-24 11:34:04.400 +03:00 [ERR] Сообщение об ошибке, приложение продолжает работу.
+2025-04-24 11:34:04.401 +03:00 [INF] Executing ViewResult, running view Index.
+2025-04-24 11:34:04.404 +03:00 [INF] Executed ViewResult - view Index executed in 2.6973ms.
+2025-04-24 11:34:04.405 +03:00 [INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 4.9832ms
+2025-04-24 11:34:04.405 +03:00 [INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+2025-04-24 11:34:04.406 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/home/index - 200 null text/html; charset=utf-8 20.5761ms
+2025-04-24 11:34:04.420 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-04-24 11:34:04.421 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-04-24 11:34:04.421 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-24 11:34:04.421 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+2025-04-24 11:34:04.421 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+2025-04-24 11:34:04.421 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-04-24 11:34:04.421 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-04-24 11:34:04.421 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+2025-04-24 11:34:04.424 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.424 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 3.4991ms
+2025-04-24 11:34:04.425 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.428 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.429 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.433 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+2025-04-24 11:34:04.435 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.436 +03:00 [INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+2025-04-24 11:34:04.437 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+2025-04-24 11:34:04.437 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.438 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+2025-04-24 11:34:04.439 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.439 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+2025-04-24 11:34:04.439 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.440 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 19.4961ms
+2025-04-24 11:34:04.441 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.442 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 20.8465ms
+2025-04-24 11:34:04.442 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.988ms
+2025-04-24 11:34:04.442 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.443 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 21.938ms
+2025-04-24 11:34:04.445 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 24.4726ms
+2025-04-24 11:34:04.448 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 26.9612ms
+2025-04-24 11:34:04.461 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.463 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+2025-04-24 11:34:04.463 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-04-24 11:34:04.464 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 43.0611ms
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:26 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 WRN] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 ERR] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:27 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 WRN] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 ERR] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 DBG] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:00:36 INF] {!!! Message:lj !!!}
+[2025-04-24 12:02:20 DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+[2025-04-24 12:02:20 DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+[2025-04-24 12:02:20 DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+[2025-04-24 12:02:20 DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+[2025-04-24 12:02:20 DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+[2025-04-24 12:02:20 DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+[2025-04-24 12:02:20 DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+[2025-04-24 12:02:20 DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[2025-04-24 12:02:20 DBG] Hosting starting
+[2025-04-24 12:02:20 INF] User profile is available. Using 'C:\Users\polin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2025-04-24 12:02:20 DBG] Reading data from file 'C:\Users\polin\AppData\Local\ASP.NET\DataProtection-Keys\key-1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3.xml'.
+[2025-04-24 12:02:20 DBG] Found key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3}.
+[2025-04-24 12:02:20 DBG] Considering key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3} with expiration date 2025-05-17 16:03:16Z as default key.
+[2025-04-24 12:02:20 DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2025-04-24 12:02:20 DBG] Decrypting secret element using Windows DPAPI.
+[2025-04-24 12:02:20 DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2025-04-24 12:02:20 DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+[2025-04-24 12:02:20 DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+[2025-04-24 12:02:20 DBG] Using key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3} as the default key.
+[2025-04-24 12:02:20 DBG] Key ring with default key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3} was loaded during application startup.
+[2025-04-24 12:02:20 DBG] Middleware loaded
+[2025-04-24 12:02:20 DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16493 B).
+[2025-04-24 12:02:20 DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+[2025-04-24 12:02:20 DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+[2025-04-24 12:02:20 DBG] Wildcard detected, all requests with hosts will be allowed.
+[2025-04-24 12:02:20 DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+[2025-04-24 12:02:20 INF] Now listening on: https://localhost:7037
+[2025-04-24 12:02:20 INF] Now listening on: http://localhost:5031
+[2025-04-24 12:02:20 DBG] Loaded hosting startup assembly Lab7
+[2025-04-24 12:02:20 DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+[2025-04-24 12:02:20 DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[2025-04-24 12:02:20 DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[2025-04-24 12:02:20 DBG] Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+[2025-04-24 12:02:20 DBG] Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+[2025-04-24 12:02:20 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-24 12:02:20 INF] Hosting environment: Development
+[2025-04-24 12:02:20 INF] Content root path: D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7
+[2025-04-24 12:02:20 DBG] Hosting started
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPD" accepted.
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPD" received FIN.
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPE" received FIN.
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPD" started.
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPE" accepted.
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPE" started.
+[2025-04-24 12:02:20 DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[2025-04-24 12:02:20 DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPE" stopped.
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPD" stopped.
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPD" sending FIN because: "The Socket transport's send loop completed gracefully."
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPE" sending FIN because: "The Socket transport's send loop completed gracefully."
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPF" accepted.
+[2025-04-24 12:02:20 DBG] Connection id "0HNC31QSB2UPF" started.
+[2025-04-24 12:02:20 DBG] Connection 0HNC31QSB2UPF established using the following protocol: "Tls13"
+[2025-04-24 12:02:20 INF] Request starting HTTP/2 GET https://localhost:7037/ - null null
+[2025-04-24 12:02:21 DBG] 2 candidate(s) found for the request path '/'
+[2025-04-24 12:02:21 DBG] Endpoint 'Lab7.Controllers.HomeController.Index (Lab7)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+[2025-04-24 12:02:21 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' was rejected by constraint 'path':'Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler+FileExistsConstraint' with value 'null' for the request path '/'
+[2025-04-24 12:02:21 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is not valid for the request path '/'
+[2025-04-24 12:02:21 DBG] Request matched endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[2025-04-24 12:02:21 INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[2025-04-24 12:02:21 INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+[2025-04-24 12:02:21 DBG] Execution plan of authorization filters (in the following order): ["None"]
+[2025-04-24 12:02:21 DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[2025-04-24 12:02:21 DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+[2025-04-24 12:02:21 DBG] Execution plan of exception filters (in the following order): ["None"]
+[2025-04-24 12:02:21 DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[2025-04-24 12:02:21 DBG] Executing controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[2025-04-24 12:02:21 DBG] Executed controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[2025-04-24 12:02:21 INF] Открыта главная страница.
+[2025-04-24 12:02:21 WRN] Предупреждение: что-то может пойти не так.
+[2025-04-24 12:02:21 ERR] Сообщение об ошибке, приложение продолжает работу.
+[2025-04-24 12:02:21 DBG] Отладочная информация. По умолчанию она может быть скрыта.
+[2025-04-24 12:02:21 DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+[2025-04-24 12:02:21 INF] Executing ViewResult, running view Index.
+[2025-04-24 12:02:21 DBG] The view path '/Views/Home/Index.cshtml' was found in 6.1661ms.
+[2025-04-24 12:02:21 DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+[2025-04-24 12:02:21 DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[2025-04-24 12:02:21 DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[2025-04-24 12:02:21 DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[2025-04-24 12:02:21 DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[2025-04-24 12:02:21 DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[2025-04-24 12:02:21 DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[2025-04-24 12:02:21 DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[2025-04-24 12:02:21 DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[2025-04-24 12:02:21 DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[2025-04-24 12:02:21 DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[2025-04-24 12:02:21 DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[2025-04-24 12:02:21 DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[2025-04-24 12:02:21 DBG] Response markup is scheduled to include Browser Link script injection.
+[2025-04-24 12:02:21 DBG] Response markup is scheduled to include browser refresh script injection.
+[2025-04-24 12:02:21 INF] Executed ViewResult - view Index executed in 79.1853ms.
+[2025-04-24 12:02:21 INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 87.5468ms
+[2025-04-24 12:02:21 INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[2025-04-24 12:02:21 DBG] Response markup was updated to include Browser Link script injection.
+[2025-04-24 12:02:21 DBG] Response markup was updated to include browser refresh script injection.
+[2025-04-24 12:02:21 INF] Request finished HTTP/2 GET https://localhost:7037/ - 200 null text/html; charset=utf-8 260.1211ms
+[2025-04-24 12:02:21 INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+[2025-04-24 12:02:21 INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+[2025-04-24 12:02:21 INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+[2025-04-24 12:02:21 INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+[2025-04-24 12:02:21 DBG] 3 candidate(s) found for the request path '/css/site.css'
+[2025-04-24 12:02:21 DBG] 3 candidate(s) found for the request path '/lib/jquery/dist/jquery.min.js'
+[2025-04-24 12:02:21 DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[2025-04-24 12:02:21 INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+[2025-04-24 12:02:21 INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+[2025-04-24 12:02:21 INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[2025-04-24 12:02:21 DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+[2025-04-24 12:02:21 DBG] 3 candidate(s) found for the request path '/Lab7.styles.css'
+[2025-04-24 12:02:21 DBG] 3 candidate(s) found for the request path '/js/site.js'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[2025-04-24 12:02:21 DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[2025-04-24 12:02:21 INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 80.7863ms
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[2025-04-24 12:02:21 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/css/site.css'
+[2025-04-24 12:02:21 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[2025-04-24 12:02:21 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[2025-04-24 12:02:21 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:21 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:21 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:21 DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[2025-04-24 12:02:21 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/Lab7.styles.css'
+[2025-04-24 12:02:21 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/js/site.js'
+[2025-04-24 12:02:21 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[2025-04-24 12:02:21 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:21 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:21 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:21 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+[2025-04-24 12:02:21 INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+[2025-04-24 12:02:21 INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+[2025-04-24 12:02:21 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+[2025-04-24 12:02:21 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+[2025-04-24 12:02:21 INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 105.6118ms
+[2025-04-24 12:02:21 INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 66.4547ms
+[2025-04-24 12:02:21 INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+[2025-04-24 12:02:21 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 112.3181ms
+[2025-04-24 12:02:21 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:21 INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 72.6784ms
+[2025-04-24 12:02:21 INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 114.3288ms
+[2025-04-24 12:02:21 INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+[2025-04-24 12:02:21 INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 119.7116ms
+[2025-04-24 12:02:21 INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.0671ms
+[2025-04-24 12:02:26 INF] Request starting HTTP/2 GET https://localhost:7037/home/index - null null
+[2025-04-24 12:02:26 DBG] 2 candidate(s) found for the request path '/home/index'
+[2025-04-24 12:02:26 DBG] Endpoint 'Lab7.Controllers.HomeController.Index (Lab7)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/home/index'
+[2025-04-24 12:02:26 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' was rejected by constraint 'path':'Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler+FileExistsConstraint' with value 'home/index' for the request path '/home/index'
+[2025-04-24 12:02:26 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is not valid for the request path '/home/index'
+[2025-04-24 12:02:26 DBG] Request matched endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[2025-04-24 12:02:26 INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[2025-04-24 12:02:26 INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+[2025-04-24 12:02:26 DBG] Execution plan of authorization filters (in the following order): ["None"]
+[2025-04-24 12:02:26 DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[2025-04-24 12:02:26 DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+[2025-04-24 12:02:26 DBG] Execution plan of exception filters (in the following order): ["None"]
+[2025-04-24 12:02:26 DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[2025-04-24 12:02:26 DBG] Executing controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[2025-04-24 12:02:26 DBG] Executed controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[2025-04-24 12:02:26 INF] Открыта главная страница.
+[2025-04-24 12:02:26 WRN] Предупреждение: что-то может пойти не так.
+[2025-04-24 12:02:26 ERR] Сообщение об ошибке, приложение продолжает работу.
+[2025-04-24 12:02:26 DBG] Отладочная информация. По умолчанию она может быть скрыта.
+[2025-04-24 12:02:26 DBG] View lookup cache hit for view 'Index' in controller 'Home'.
+[2025-04-24 12:02:26 INF] Executing ViewResult, running view Index.
+[2025-04-24 12:02:26 DBG] The view path '/Views/Home/Index.cshtml' was found in 1.1253ms.
+[2025-04-24 12:02:26 DBG] View lookup cache hit for view '_Layout' in controller 'Home'.
+[2025-04-24 12:02:26 DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[2025-04-24 12:02:26 DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[2025-04-24 12:02:26 DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[2025-04-24 12:02:26 DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[2025-04-24 12:02:26 DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[2025-04-24 12:02:26 DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[2025-04-24 12:02:26 DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[2025-04-24 12:02:26 DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[2025-04-24 12:02:26 DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[2025-04-24 12:02:26 DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[2025-04-24 12:02:26 DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[2025-04-24 12:02:26 DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[2025-04-24 12:02:26 DBG] Response markup is scheduled to include Browser Link script injection.
+[2025-04-24 12:02:26 DBG] Response markup is scheduled to include browser refresh script injection.
+[2025-04-24 12:02:26 INF] Executed ViewResult - view Index executed in 14.0652ms.
+[2025-04-24 12:02:26 INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 17.3695ms
+[2025-04-24 12:02:26 INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[2025-04-24 12:02:26 DBG] Response markup was updated to include Browser Link script injection.
+[2025-04-24 12:02:26 DBG] Response markup was updated to include browser refresh script injection.
+[2025-04-24 12:02:26 INF] Request finished HTTP/2 GET https://localhost:7037/home/index - 200 null text/html; charset=utf-8 44.1901ms
+[2025-04-24 12:02:26 INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+[2025-04-24 12:02:26 INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+[2025-04-24 12:02:26 INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+[2025-04-24 12:02:26 DBG] 3 candidate(s) found for the request path '/Lab7.styles.css'
+[2025-04-24 12:02:26 DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[2025-04-24 12:02:26 DBG] 3 candidate(s) found for the request path '/css/site.css'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[2025-04-24 12:02:26 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/Lab7.styles.css'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[2025-04-24 12:02:26 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:26 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/css/site.css'
+[2025-04-24 12:02:26 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:26 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+[2025-04-24 12:02:26 INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+[2025-04-24 12:02:26 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[2025-04-24 12:02:26 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 14.1979ms
+[2025-04-24 12:02:26 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:26 INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+[2025-04-24 12:02:26 INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 15.5822ms
+[2025-04-24 12:02:26 INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+[2025-04-24 12:02:26 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+[2025-04-24 12:02:26 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 DBG] 3 candidate(s) found for the request path '/lib/jquery/dist/jquery.min.js'
+[2025-04-24 12:02:26 INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 25.9916ms
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[2025-04-24 12:02:26 INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[2025-04-24 12:02:26 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[2025-04-24 12:02:26 DBG] 3 candidate(s) found for the request path '/js/site.js'
+[2025-04-24 12:02:26 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[2025-04-24 12:02:26 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[2025-04-24 12:02:26 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/js/site.js'
+[2025-04-24 12:02:26 INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+[2025-04-24 12:02:26 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:26 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 21.7283ms
+[2025-04-24 12:02:26 INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+[2025-04-24 12:02:26 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 12.9216ms
+[2025-04-24 12:02:26 INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+[2025-04-24 12:02:26 DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+[2025-04-24 12:02:26 INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 3.2293ms
+[2025-04-24 12:02:26 INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+[2025-04-24 12:02:26 DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[2025-04-24 12:02:26 DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[2025-04-24 12:02:26 DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[2025-04-24 12:02:26 INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.0893ms
+[2025-04-24 12:02:26 DBG] Request matched endpoint 'null'
+[2025-04-24 12:02:26 INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+[2025-04-24 12:02:26 INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[2025-04-24 12:02:26 INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 46.4893ms
+[!2025-04-24 12:24:13! DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+[!2025-04-24 12:24:13! DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+[!2025-04-24 12:24:13! DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+[!2025-04-24 12:24:13! DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+[!2025-04-24 12:24:13! DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+[!2025-04-24 12:24:13! DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+[!2025-04-24 12:24:13! DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+[!2025-04-24 12:24:13! DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[!2025-04-24 12:24:13! DBG] Hosting starting
+[!2025-04-24 12:24:13! INF] User profile is available. Using 'C:\Users\polin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[!2025-04-24 12:24:13! DBG] Reading data from file 'C:\Users\polin\AppData\Local\ASP.NET\DataProtection-Keys\key-1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3.xml'.
+[!2025-04-24 12:24:13! DBG] Found key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3}.
+[!2025-04-24 12:24:13! DBG] Considering key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3} with expiration date 2025-05-17 16:03:16Z as default key.
+[!2025-04-24 12:24:13! DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[!2025-04-24 12:24:13! DBG] Decrypting secret element using Windows DPAPI.
+[!2025-04-24 12:24:13! DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[!2025-04-24 12:24:13! DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+[!2025-04-24 12:24:13! DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+[!2025-04-24 12:24:13! DBG] Using key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3} as the default key.
+[!2025-04-24 12:24:13! DBG] Key ring with default key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3} was loaded during application startup.
+[!2025-04-24 12:24:13! DBG] Middleware loaded
+[!2025-04-24 12:24:13! DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16493 B).
+[!2025-04-24 12:24:13! DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+[!2025-04-24 12:24:13! DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+[!2025-04-24 12:24:13! DBG] Wildcard detected, all requests with hosts will be allowed.
+[!2025-04-24 12:24:13! DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+[!2025-04-24 12:24:13! INF] Now listening on: https://localhost:7037
+[!2025-04-24 12:24:13! INF] Now listening on: http://localhost:5031
+[!2025-04-24 12:24:13! DBG] Loaded hosting startup assembly Lab7
+[!2025-04-24 12:24:13! DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+[!2025-04-24 12:24:13! DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[!2025-04-24 12:24:13! DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[!2025-04-24 12:24:13! DBG] Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+[!2025-04-24 12:24:13! DBG] Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+[!2025-04-24 12:24:13! INF] Application started. Press Ctrl+C to shut down.
+[!2025-04-24 12:24:13! INF] Hosting environment: Development
+[!2025-04-24 12:24:13! INF] Content root path: D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7
+[!2025-04-24 12:24:13! DBG] Hosting started
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR1" accepted.
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR1" started.
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR2" accepted.
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR2" started.
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR2" received FIN.
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR1" received FIN.
+[!2025-04-24 12:24:13! DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[!2025-04-24 12:24:13! DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR2" stopped.
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR1" stopped.
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR2" sending FIN because: "The Socket transport's send loop completed gracefully."
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR1" sending FIN because: "The Socket transport's send loop completed gracefully."
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR3" accepted.
+[!2025-04-24 12:24:13! DBG] Connection id "0HNC3273JSKR3" started.
+[!2025-04-24 12:24:13! DBG] Connection 0HNC3273JSKR3 established using the following protocol: "Tls13"
+[!2025-04-24 12:24:13! INF] Request starting HTTP/2 GET https://localhost:7037/ - null null
+[!2025-04-24 12:24:13! DBG] 2 candidate(s) found for the request path '/'
+[!2025-04-24 12:24:13! DBG] Endpoint 'Lab7.Controllers.HomeController.Index (Lab7)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+[!2025-04-24 12:24:13! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' was rejected by constraint 'path':'Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler+FileExistsConstraint' with value 'null' for the request path '/'
+[!2025-04-24 12:24:13! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is not valid for the request path '/'
+[!2025-04-24 12:24:13! DBG] Request matched endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:24:13! INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:24:14! INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+[!2025-04-24 12:24:14! DBG] Execution plan of authorization filters (in the following order): ["None"]
+[!2025-04-24 12:24:14! DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[!2025-04-24 12:24:14! DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+[!2025-04-24 12:24:14! DBG] Execution plan of exception filters (in the following order): ["None"]
+[!2025-04-24 12:24:14! DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[!2025-04-24 12:24:14! DBG] Executing controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[!2025-04-24 12:24:14! DBG] Executed controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[!2025-04-24 12:24:14! INF] Открыта главная страница.
+[!2025-04-24 12:24:14! WRN] Предупреждение: что-то может пойти не так.
+[!2025-04-24 12:24:14! ERR] Сообщение об ошибке, приложение продолжает работу.
+[!2025-04-24 12:24:14! DBG] Отладочная информация. По умолчанию она может быть скрыта.
+[!2025-04-24 12:24:14! DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+[!2025-04-24 12:24:14! INF] Executing ViewResult, running view Index.
+[!2025-04-24 12:24:14! DBG] The view path '/Views/Home/Index.cshtml' was found in 4.1095ms.
+[!2025-04-24 12:24:14! DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+[!2025-04-24 12:24:14! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[!2025-04-24 12:24:14! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[!2025-04-24 12:24:14! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[!2025-04-24 12:24:14! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[!2025-04-24 12:24:14! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[!2025-04-24 12:24:14! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[!2025-04-24 12:24:14! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[!2025-04-24 12:24:14! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[!2025-04-24 12:24:14! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[!2025-04-24 12:24:14! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[!2025-04-24 12:24:14! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[!2025-04-24 12:24:14! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[!2025-04-24 12:24:14! DBG] Response markup is scheduled to include Browser Link script injection.
+[!2025-04-24 12:24:14! DBG] Response markup is scheduled to include browser refresh script injection.
+[!2025-04-24 12:24:14! INF] Executed ViewResult - view Index executed in 78.0269ms.
+[!2025-04-24 12:24:14! INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 85.1919ms
+[!2025-04-24 12:24:14! INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:24:14! DBG] Response markup was updated to include Browser Link script injection.
+[!2025-04-24 12:24:14! DBG] Response markup was updated to include browser refresh script injection.
+[!2025-04-24 12:24:14! INF] Request finished HTTP/2 GET https://localhost:7037/ - 200 null text/html; charset=utf-8 234.176ms
+[!2025-04-24 12:24:14! INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+[!2025-04-24 12:24:14! INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+[!2025-04-24 12:24:14! INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+[!2025-04-24 12:24:14! INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+[!2025-04-24 12:24:14! DBG] 3 candidate(s) found for the request path '/Lab7.styles.css'
+[!2025-04-24 12:24:14! DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:24:14! DBG] 3 candidate(s) found for the request path '/css/site.css'
+[!2025-04-24 12:24:14! INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+[!2025-04-24 12:24:14! INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+[!2025-04-24 12:24:14! INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+[!2025-04-24 12:24:14! INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[!2025-04-24 12:24:14! DBG] 3 candidate(s) found for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:24:14! DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+[!2025-04-24 12:24:14! DBG] 3 candidate(s) found for the request path '/js/site.js'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:24:14! DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:24:14! INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 105.9234ms
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[!2025-04-24 12:24:14! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:24:14! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:24:14! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/css/site.css'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[!2025-04-24 12:24:14! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:14! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:14! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:14! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:24:14! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:24:14! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/js/site.js'
+[!2025-04-24 12:24:14! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:14! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:24:14! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:14! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 53.7622ms
+[!2025-04-24 12:24:14! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:14! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+[!2025-04-24 12:24:14! INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+[!2025-04-24 12:24:14! INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+[!2025-04-24 12:24:14! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+[!2025-04-24 12:24:14! INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+[!2025-04-24 12:24:14! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 139.2615ms
+[!2025-04-24 12:24:14! INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 100.8091ms
+[!2025-04-24 12:24:14! INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+[!2025-04-24 12:24:14! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 141.461ms
+[!2025-04-24 12:24:14! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:14! INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 135.0413ms
+[!2025-04-24 12:24:14! INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 139.988ms
+[!2025-04-24 12:24:14! INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 147.8131ms
+[!2025-04-24 12:24:18! INF] Request starting HTTP/2 GET https://localhost:7037/home/index - null null
+[!2025-04-24 12:24:18! DBG] 2 candidate(s) found for the request path '/home/index'
+[!2025-04-24 12:24:18! DBG] Endpoint 'Lab7.Controllers.HomeController.Index (Lab7)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/home/index'
+[!2025-04-24 12:24:18! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' was rejected by constraint 'path':'Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler+FileExistsConstraint' with value 'home/index' for the request path '/home/index'
+[!2025-04-24 12:24:18! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is not valid for the request path '/home/index'
+[!2025-04-24 12:24:18! DBG] Request matched endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:24:18! INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:24:18! INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+[!2025-04-24 12:24:18! DBG] Execution plan of authorization filters (in the following order): ["None"]
+[!2025-04-24 12:24:18! DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[!2025-04-24 12:24:18! DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+[!2025-04-24 12:24:18! DBG] Execution plan of exception filters (in the following order): ["None"]
+[!2025-04-24 12:24:18! DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[!2025-04-24 12:24:18! DBG] Executing controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[!2025-04-24 12:24:18! DBG] Executed controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[!2025-04-24 12:24:18! INF] Открыта главная страница.
+[!2025-04-24 12:24:18! WRN] Предупреждение: что-то может пойти не так.
+[!2025-04-24 12:24:18! ERR] Сообщение об ошибке, приложение продолжает работу.
+[!2025-04-24 12:24:18! DBG] Отладочная информация. По умолчанию она может быть скрыта.
+[!2025-04-24 12:24:18! DBG] View lookup cache hit for view 'Index' in controller 'Home'.
+[!2025-04-24 12:24:18! INF] Executing ViewResult, running view Index.
+[!2025-04-24 12:24:18! DBG] The view path '/Views/Home/Index.cshtml' was found in 1.1923ms.
+[!2025-04-24 12:24:18! DBG] View lookup cache hit for view '_Layout' in controller 'Home'.
+[!2025-04-24 12:24:18! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[!2025-04-24 12:24:18! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[!2025-04-24 12:24:18! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[!2025-04-24 12:24:18! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[!2025-04-24 12:24:18! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[!2025-04-24 12:24:18! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[!2025-04-24 12:24:18! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[!2025-04-24 12:24:18! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[!2025-04-24 12:24:18! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[!2025-04-24 12:24:18! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[!2025-04-24 12:24:18! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[!2025-04-24 12:24:18! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[!2025-04-24 12:24:18! DBG] Response markup is scheduled to include Browser Link script injection.
+[!2025-04-24 12:24:18! DBG] Response markup is scheduled to include browser refresh script injection.
+[!2025-04-24 12:24:18! INF] Executed ViewResult - view Index executed in 14.2263ms.
+[!2025-04-24 12:24:18! INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 18.9885ms
+[!2025-04-24 12:24:18! INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:24:18! DBG] Response markup was updated to include Browser Link script injection.
+[!2025-04-24 12:24:18! DBG] Response markup was updated to include browser refresh script injection.
+[!2025-04-24 12:24:18! INF] Request finished HTTP/2 GET https://localhost:7037/home/index - 200 null text/html; charset=utf-8 36.2503ms
+[!2025-04-24 12:24:18! INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+[!2025-04-24 12:24:18! INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+[!2025-04-24 12:24:18! INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+[!2025-04-24 12:24:18! DBG] 3 candidate(s) found for the request path '/css/site.css'
+[!2025-04-24 12:24:18! DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:24:18! DBG] 3 candidate(s) found for the request path '/Lab7.styles.css'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:24:18! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/css/site.css'
+[!2025-04-24 12:24:18! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:24:18! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:24:18! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:18! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:18! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:18! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+[!2025-04-24 12:24:18! INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+[!2025-04-24 12:24:18! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+[!2025-04-24 12:24:18! INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 16.1987ms
+[!2025-04-24 12:24:18! INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 16.7591ms
+[!2025-04-24 12:24:18! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+[!2025-04-24 12:24:18! INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+[!2025-04-24 12:24:18! INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 20.5886ms
+[!2025-04-24 12:24:18! INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+[!2025-04-24 12:24:18! DBG] 3 candidate(s) found for the request path '/js/site.js'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[!2025-04-24 12:24:18! DBG] 3 candidate(s) found for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:24:18! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/js/site.js'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:24:18! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:24:18! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:24:18! INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+[!2025-04-24 12:24:18! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:18! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 12.1443ms
+[!2025-04-24 12:24:18! INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+[!2025-04-24 12:24:18! INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+[!2025-04-24 12:24:18! DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+[!2025-04-24 12:24:18! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 3.6253ms
+[!2025-04-24 12:24:18! INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 22.0272ms
+[!2025-04-24 12:24:18! INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+[!2025-04-24 12:24:18! INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 9.5928ms
+[!2025-04-24 12:24:18! DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:24:18! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:24:18! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:24:18! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:24:18! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+[!2025-04-24 12:24:18! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:24:18! INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 44.9093ms
+[!2025-04-24 12:40:50! DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+[!2025-04-24 12:40:50! DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+[!2025-04-24 12:40:50! DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+[!2025-04-24 12:40:50! DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+[!2025-04-24 12:40:50! DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+[!2025-04-24 12:40:50! DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+[!2025-04-24 12:40:50! DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+[!2025-04-24 12:40:50! DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[!2025-04-24 12:40:50! DBG] Hosting starting
+[!2025-04-24 12:40:50! INF] User profile is available. Using 'C:\Users\polin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[!2025-04-24 12:40:50! DBG] Reading data from file 'C:\Users\polin\AppData\Local\ASP.NET\DataProtection-Keys\key-1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3.xml'.
+[!2025-04-24 12:40:50! DBG] Found key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3}.
+[!2025-04-24 12:40:50! DBG] Considering key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3} with expiration date 2025-05-17 16:03:16Z as default key.
+[!2025-04-24 12:40:50! DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[!2025-04-24 12:40:50! DBG] Decrypting secret element using Windows DPAPI.
+[!2025-04-24 12:40:50! DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[!2025-04-24 12:40:50! DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+[!2025-04-24 12:40:50! DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+[!2025-04-24 12:40:50! DBG] Using key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3} as the default key.
+[!2025-04-24 12:40:50! DBG] Key ring with default key {1a753091-b7d4-46d2-ac2a-fd01a9a2a5f3} was loaded during application startup.
+[!2025-04-24 12:40:50! DBG] Middleware loaded
+[!2025-04-24 12:40:50! DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16493 B).
+[!2025-04-24 12:40:50! DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+[!2025-04-24 12:40:50! DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+[!2025-04-24 12:40:50! DBG] Wildcard detected, all requests with hosts will be allowed.
+[!2025-04-24 12:40:50! DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+[!2025-04-24 12:40:51! INF] Now listening on: https://localhost:7037
+[!2025-04-24 12:40:51! INF] Now listening on: http://localhost:5031
+[!2025-04-24 12:40:51! DBG] Loaded hosting startup assembly Lab7
+[!2025-04-24 12:40:51! DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+[!2025-04-24 12:40:51! DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[!2025-04-24 12:40:51! DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[!2025-04-24 12:40:51! DBG] Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+[!2025-04-24 12:40:51! DBG] Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+[!2025-04-24 12:40:51! INF] Application started. Press Ctrl+C to shut down.
+[!2025-04-24 12:40:51! INF] Hosting environment: Development
+[!2025-04-24 12:40:51! INF] Content root path: D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7
+[!2025-04-24 12:40:51! DBG] Hosting started
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN759" accepted.
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN75A" accepted.
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN759" started.
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN75A" started.
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN759" received FIN.
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN75A" received FIN.
+[!2025-04-24 12:40:51! DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[!2025-04-24 12:40:51! DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN75A" stopped.
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN759" stopped.
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN75A" sending FIN because: "The Socket transport's send loop completed gracefully."
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN759" sending FIN because: "The Socket transport's send loop completed gracefully."
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN75B" accepted.
+[!2025-04-24 12:40:51! DBG] Connection id "0HNC32GCVN75B" started.
+[!2025-04-24 12:40:51! DBG] Connection 0HNC32GCVN75B established using the following protocol: "Tls13"
+[!2025-04-24 12:40:51! INF] Request starting HTTP/2 GET https://localhost:7037/ - null null
+[!2025-04-24 12:40:51! DBG] 2 candidate(s) found for the request path '/'
+[!2025-04-24 12:40:51! DBG] Endpoint 'Lab7.Controllers.HomeController.Index (Lab7)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+[!2025-04-24 12:40:51! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' was rejected by constraint 'path':'Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler+FileExistsConstraint' with value 'null' for the request path '/'
+[!2025-04-24 12:40:51! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is not valid for the request path '/'
+[!2025-04-24 12:40:51! DBG] Request matched endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:40:51! INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:40:51! INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+[!2025-04-24 12:40:51! DBG] Execution plan of authorization filters (in the following order): ["None"]
+[!2025-04-24 12:40:51! DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[!2025-04-24 12:40:51! DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+[!2025-04-24 12:40:51! DBG] Execution plan of exception filters (in the following order): ["None"]
+[!2025-04-24 12:40:51! DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[!2025-04-24 12:40:51! DBG] Executing controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[!2025-04-24 12:40:51! DBG] Executed controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[!2025-04-24 12:40:51! INF] Открыта главная страница.
+[!2025-04-24 12:40:51! WRN] Предупреждение: что-то может пойти не так.
+[!2025-04-24 12:40:51! ERR] Сообщение об ошибке, приложение продолжает работу.
+[!2025-04-24 12:40:51! DBG] Отладочная информация. По умолчанию она может быть скрыта.
+[!2025-04-24 12:40:51! DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+[!2025-04-24 12:40:51! INF] Executing ViewResult, running view Index.
+[!2025-04-24 12:40:51! DBG] The view path '/Views/Home/Index.cshtml' was found in 5.5395ms.
+[!2025-04-24 12:40:51! DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+[!2025-04-24 12:40:51! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[!2025-04-24 12:40:51! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[!2025-04-24 12:40:51! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[!2025-04-24 12:40:51! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[!2025-04-24 12:40:51! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[!2025-04-24 12:40:51! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[!2025-04-24 12:40:51! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[!2025-04-24 12:40:51! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[!2025-04-24 12:40:51! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[!2025-04-24 12:40:51! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[!2025-04-24 12:40:51! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[!2025-04-24 12:40:51! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[!2025-04-24 12:40:51! DBG] Response markup is scheduled to include Browser Link script injection.
+[!2025-04-24 12:40:51! DBG] Response markup is scheduled to include browser refresh script injection.
+[!2025-04-24 12:40:51! INF] Executed ViewResult - view Index executed in 82.9709ms.
+[!2025-04-24 12:40:51! INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 91.7754ms
+[!2025-04-24 12:40:51! INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:40:51! DBG] Response markup was updated to include Browser Link script injection.
+[!2025-04-24 12:40:51! DBG] Response markup was updated to include browser refresh script injection.
+[!2025-04-24 12:40:51! INF] Request finished HTTP/2 GET https://localhost:7037/ - 200 null text/html; charset=utf-8 239.0827ms
+[!2025-04-24 12:40:51! INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+[!2025-04-24 12:40:51! INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+[!2025-04-24 12:40:51! INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+[!2025-04-24 12:40:52! DBG] 3 candidate(s) found for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:40:52! DBG] 3 candidate(s) found for the request path '/Lab7.styles.css'
+[!2025-04-24 12:40:51! INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+[!2025-04-24 12:40:51! INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+[!2025-04-24 12:40:51! INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+[!2025-04-24 12:40:51! INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+[!2025-04-24 12:40:51! INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+[!2025-04-24 12:40:52! DBG] 3 candidate(s) found for the request path '/css/site.css'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:40:52! DBG] 3 candidate(s) found for the request path '/js/site.js'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[!2025-04-24 12:40:52! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:40:52! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[!2025-04-24 12:40:52! DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:40:52! DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[!2025-04-24 12:40:52! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:40:52! DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+[!2025-04-24 12:40:52! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:40:52! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/css/site.css'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:40:52! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/js/site.js'
+[!2025-04-24 12:40:52! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 502.4015ms
+[!2025-04-24 12:40:52! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:40:52! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:40:52! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:40:52! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 546.9585ms
+[!2025-04-24 12:40:52! INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+[!2025-04-24 12:40:52! INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+[!2025-04-24 12:40:52! INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+[!2025-04-24 12:40:52! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+[!2025-04-24 12:40:52! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 616.8264ms
+[!2025-04-24 12:40:52! INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 617.4913ms
+[!2025-04-24 12:40:52! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:40:52! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:40:52! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 592.9064ms
+[!2025-04-24 12:40:52! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:40:52! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:40:52! INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 626.2451ms
+[!2025-04-24 12:40:52! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+[!2025-04-24 12:40:52! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 607.3353ms
+[!2025-04-24 12:40:52! INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+[!2025-04-24 12:40:52! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:40:52! INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 637.3053ms
+[!2025-04-24 12:41:21! INF] Request starting HTTP/2 GET https://localhost:7037/home/index - null null
+[!2025-04-24 12:41:21! DBG] 2 candidate(s) found for the request path '/home/index'
+[!2025-04-24 12:41:21! DBG] Endpoint 'Lab7.Controllers.HomeController.Index (Lab7)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/home/index'
+[!2025-04-24 12:41:21! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' was rejected by constraint 'path':'Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler+FileExistsConstraint' with value 'home/index' for the request path '/home/index'
+[!2025-04-24 12:41:21! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is not valid for the request path '/home/index'
+[!2025-04-24 12:41:21! DBG] Request matched endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:41:21! INF] Executing endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:41:21! INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lab7.Controllers.HomeController (Lab7).
+[!2025-04-24 12:41:21! DBG] Execution plan of authorization filters (in the following order): ["None"]
+[!2025-04-24 12:41:21! DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[!2025-04-24 12:41:21! DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+[!2025-04-24 12:41:21! DBG] Execution plan of exception filters (in the following order): ["None"]
+[!2025-04-24 12:41:21! DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+[!2025-04-24 12:41:21! DBG] Executing controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[!2025-04-24 12:41:21! DBG] Executed controller factory for controller Lab7.Controllers.HomeController (Lab7)
+[!2025-04-24 12:41:21! INF] Открыта главная страница.
+[!2025-04-24 12:41:21! WRN] Предупреждение: что-то может пойти не так.
+[!2025-04-24 12:41:21! ERR] Сообщение об ошибке, приложение продолжает работу.
+[!2025-04-24 12:41:21! DBG] Отладочная информация. По умолчанию она может быть скрыта.
+[!2025-04-24 12:41:21! DBG] View lookup cache hit for view 'Index' in controller 'Home'.
+[!2025-04-24 12:41:21! INF] Executing ViewResult, running view Index.
+[!2025-04-24 12:41:21! DBG] The view path '/Views/Home/Index.cshtml' was found in 1.1638ms.
+[!2025-04-24 12:41:21! DBG] View lookup cache hit for view '_Layout' in controller 'Home'.
+[!2025-04-24 12:41:21! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[!2025-04-24 12:41:21! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[!2025-04-24 12:41:21! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[!2025-04-24 12:41:21! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+[!2025-04-24 12:41:21! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+[!2025-04-24 12:41:21! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+[!2025-04-24 12:41:21! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[!2025-04-24 12:41:21! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[!2025-04-24 12:41:21! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[!2025-04-24 12:41:21! DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+[!2025-04-24 12:41:21! DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+[!2025-04-24 12:41:21! DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+[!2025-04-24 12:41:21! DBG] Response markup is scheduled to include Browser Link script injection.
+[!2025-04-24 12:41:21! DBG] Response markup is scheduled to include browser refresh script injection.
+[!2025-04-24 12:41:21! INF] Executed ViewResult - view Index executed in 13.1074ms.
+[!2025-04-24 12:41:21! INF] Executed action Lab7.Controllers.HomeController.Index (Lab7) in 16.9572ms
+[!2025-04-24 12:41:21! INF] Executed endpoint 'Lab7.Controllers.HomeController.Index (Lab7)'
+[!2025-04-24 12:41:21! DBG] Response markup was updated to include Browser Link script injection.
+[!2025-04-24 12:41:21! DBG] Response markup was updated to include browser refresh script injection.
+[!2025-04-24 12:41:21! INF] Request finished HTTP/2 GET https://localhost:7037/home/index - 200 null text/html; charset=utf-8 40.9151ms
+[!2025-04-24 12:41:21! INF] Request starting HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+[!2025-04-24 12:41:21! INF] Request starting HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - null null
+[!2025-04-24 12:41:21! INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - null null
+[!2025-04-24 12:41:21! DBG] 3 candidate(s) found for the request path '/css/site.css'
+[!2025-04-24 12:41:21! DBG] 3 candidate(s) found for the request path '/Lab7.styles.css'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[!2025-04-24 12:41:21! DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'css/site.css' is valid for the request path '/css/site.css'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'Lab7.styles.css' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:41:21! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/css/site.css'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/css/bootstrap.min.css' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:41:21! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/Lab7.styles.css'
+[!2025-04-24 12:41:21! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:41:21! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/css/bootstrap.min.css'
+[!2025-04-24 12:41:21! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:41:21! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:41:21! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! INF] Sending file. Request path: 'css/site.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\p0fpkyikqd-b9sayid5wm.gz'
+[!2025-04-24 12:41:21! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! INF] Sending file. Request path: 'Lab7.styles.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\qs8kt9paqf-dzm5xp877k.gz'
+[!2025-04-24 12:41:21! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! INF] Request finished HTTP/2 GET https://localhost:7037/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 21.9011ms
+[!2025-04-24 12:41:21! INF] Request finished HTTP/2 GET https://localhost:7037/Lab7.styles.css?v=mQj_5BKeQCktoDnFVzujGVTs9Db3vZOm_UMrI_URnDk - 200 1155 text/css 22.1096ms
+[!2025-04-24 12:41:21! INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\3zx50mj1my-46ein0sx1k.gz'
+[!2025-04-24 12:41:21! INF] Request starting HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - null null
+[!2025-04-24 12:41:21! INF] Request starting HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+[!2025-04-24 12:41:21! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 28.045ms
+[!2025-04-24 12:41:21! INF] Request starting HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+[!2025-04-24 12:41:21! DBG] 3 candidate(s) found for the request path '/js/site.js'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'js/site.js' is valid for the request path '/js/site.js'
+[!2025-04-24 12:41:21! DBG] 3 candidate(s) found for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:41:21! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/js/site.js'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:41:21! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'lib/jquery/dist/jquery.min.js' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:41:21! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/jquery/dist/jquery.min.js'
+[!2025-04-24 12:41:21! INF] Sending file. Request path: 'js/site.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\0pi7n95b9h-xtxxf3hu2r.gz'
+[!2025-04-24 12:41:21! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:41:21! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! INF] Request finished HTTP/2 GET https://localhost:7037/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 8.8952ms
+[!2025-04-24 12:41:21! INF] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - null null
+[!2025-04-24 12:41:21! INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\zca4umb4bk-o1o13a6vjx.gz'
+[!2025-04-24 12:41:21! DBG] 3 candidate(s) found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:41:21! DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+[!2025-04-24 12:41:21! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:41:21! INF] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 45.093ms
+[!2025-04-24 12:41:21! INF] Request finished HTTP/2 GET https://localhost:7037/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 61.6041ms
+[!2025-04-24 12:41:21! DBG] Endpoint 'null' with route pattern 'lib/bootstrap/dist/js/bootstrap.bundle.min.js' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:41:21! INF] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - null null
+[!2025-04-24 12:41:21! DBG] Endpoint 'Fallback {**path:file}' with route pattern '{**path:file}' is valid for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+[!2025-04-24 12:41:21! DBG] Request matched endpoint 'null'
+[!2025-04-24 12:41:21! INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\уник\2 курс\4 сем\BackEnd-разработка\BackEnd\Lab7\Lab7\obj\Debug\net9.0\compressed\7hiewm7cxa-493y06b0oq.gz'
+[!2025-04-24 12:41:21! INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+[!2025-04-24 12:41:21! INF] Request finished HTTP/2 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 72.2544ms
+[!2025-04-24 12:41:21! INF] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.9149ms

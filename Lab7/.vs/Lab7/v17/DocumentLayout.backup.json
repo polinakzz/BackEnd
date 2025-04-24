@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3574B-2369-400E-A62E-9CD330B55F21}|Lab7\\Lab7.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab7\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3574B-2369-400E-A62E-9CD330B55F21}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3574B-2369-400E-A62E-9CD330B55F21}|Lab7\\Lab7.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab7\\lab7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3574B-2369-400E-A62E-9CD330B55F21}|Lab7\\Lab7.csproj|solutionrelative:lab7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3574B-2369-400E-A62E-9CD330B55F21}|Lab7\\Lab7.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab7\\lab7\\logs\\log-20250424.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2AD3574B-2369-400E-A62E-9CD330B55F21}|Lab7\\Lab7.csproj|solutionrelative:lab7\\logs\\log-20250424.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log-20250424.txt",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab7\\Lab7\\Logs\\log-20250424.txt",
+              "RelativeDocumentMoniker": "Lab7\\Logs\\log-20250424.txt",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab7\\Lab7\\Logs\\log-20250424.txt",
+              "RelativeToolTip": "Lab7\\Logs\\log-20250424.txt",
+              "ViewState": "AgIAAKwEAAAAAAAAAAAAAJcAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-24T08:34:10.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab7\\Lab7\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab7\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab7\\Lab7\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab7\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:13:51.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab7\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7\\Program.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab7\\Lab7\\Program.cs",
+              "RelativeToolTip": "Lab7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:08:52.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
