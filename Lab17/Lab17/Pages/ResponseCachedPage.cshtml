@@ -1,0 +1,11 @@
+﻿@page
+@model Lab17.Pages.ResponseCachedPageModel
+
+@{
+    ViewData["Title"] = "Response Caching Demo";
+    Response.Headers["Cache-Control"] = "public, max-age=30"; // Кэшируем на 30 сек
+}
+
+<h1>Кэширование HTTP-ответа</h1>
+<p>Время генерации страницы: <strong>@Model.CurrentTime</strong></p>
+<p>Эта страница кэшируется в браузере на 30 секунд.</p>

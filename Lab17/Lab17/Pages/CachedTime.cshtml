@@ -1,0 +1,8 @@
+﻿@page
+@model Lab17.Pages.CachedTimeModel
+
+<h1>Кэширование в ASP.NET Core</h1>
+<p>Текущее время: <strong>@Model.CurrentTime</strong></p>
+<p>Время из кэша: <strong>@Model.CachedTime</strong></p>
+<p>Разница: <strong>@((DateTime.Parse(Model.CurrentTime) - DateTime.Parse(Model.CachedTime)).TotalSeconds)</strong> сек.</p>
+<a href="/CachedTime">Обновить страницу</a>
