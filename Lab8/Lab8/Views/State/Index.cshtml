@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Работа с состоянием";
+}
+
+<h2>Работа с Session, Cookie, localStorage и sessionStorage</h2>
+
+<form asp-controller="State" asp-action="Save" method="post">
+    <label>Введите имя:</label>
+    <input type="text" name="name" />
+    <button type="submit">Сохранить</button>
+</form>
+
+<hr />
+
+<p><strong>Из Session:</strong> @ViewBag.SessionName</p>
+<p><strong>Из Cookie:</strong> @ViewBag.CookieName</p>
+
+<hr />
+<h3>localStorage и sessionStorage (JavaScript)</h3>
+
+<input type="text" id="jsName" placeholder="Имя JS" />
+<button onclick="saveToLocal()">Сохранить в localStorage</button>
+<button onclick="saveToSession()">Сохранить в sessionStorage</button>
+
+<p id="localDisplay"></p>
+<p id="sessionDisplay"></p>
+
+<script>
+    function saveToLocal() {
+        let name = document.getElementById("jsName").value;
+        localStorage.setItem("localName", name);
+        displayLocal();
+    }
+
+    function saveToSession() {
+        let name = document.getElementById("jsName").value;
+        sessionStorage.setItem("sessionName", name);
+        displaySession();
+    }
+
+    function displayLocal() {
+        document.getElementById("localDisplay").innerText =
+            "Из localStorage: " + localStorage.getItem("localName");
+    }
+
+    function displaySession() {
+        document.getElementById("sessionDisplay").innerText =
+            "Из sessionStorage: " + sessionStorage.getItem("sessionName");
+    }
+
+    // Автоматически отображать при загрузке
+    displayLocal();
+    displaySession();
+</script>
