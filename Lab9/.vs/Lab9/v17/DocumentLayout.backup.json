@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab9\\lab9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|solutionrelative:lab9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab9\\lab9\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|solutionrelative:lab9\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab9\\lab9\\views\\home\\errordb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|solutionrelative:lab9\\views\\home\\errordb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab9\\lab9\\views\\home\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|solutionrelative:lab9\\views\\home\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab9\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|solutionrelative:lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab9\\lab9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1674B2E-1991-484E-8A00-E479363D199B}|Lab9\\Lab9.csproj|solutionrelative:lab9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorDb.cshtml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Views\\Home\\ErrorDb.cshtml",
+              "RelativeDocumentMoniker": "Lab9\\Views\\Home\\ErrorDb.cshtml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Views\\Home\\ErrorDb.cshtml",
+              "RelativeToolTip": "Lab9\\Views\\Home\\ErrorDb.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T12:39:45.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab9\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab9\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:42:10.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lab9\\Views\\Home\\Error.cshtml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "Lab9\\Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T12:43:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error404.cshtml",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Views\\Home\\Error404.cshtml",
+              "RelativeDocumentMoniker": "Lab9\\Views\\Home\\Error404.cshtml",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Views\\Home\\Error404.cshtml",
+              "RelativeToolTip": "Lab9\\Views\\Home\\Error404.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T12:39:34.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Program.cs",
+              "RelativeDocumentMoniker": "Lab9\\Program.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Program.cs",
+              "RelativeToolTip": "Lab9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:40:30.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab9\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab9\\Lab9\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab9\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T12:48:59.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
