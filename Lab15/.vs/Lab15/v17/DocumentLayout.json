@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab15\\lab15\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|solutionrelative:lab15\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab15\\lab15\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|solutionrelative:lab15\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab15\\lab15\\services\\roleredirectmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\roleredirectmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab15\\lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|solutionrelative:lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab15\\lab15\\services\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|d:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\backend\\lab15\\lab15\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95B1A9C-E1F6-4611-AD48-5717BF5E47E3}|Lab15\\Lab15.csproj|solutionrelative:lab15\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lab15\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lab15\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T03:02:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Lab15\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Lab15\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T03:02:12.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleRedirectMiddleware.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Services\\RoleRedirectMiddleware.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\RoleRedirectMiddleware.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Services\\RoleRedirectMiddleware.cs",
+              "RelativeToolTip": "Lab15\\Services\\RoleRedirectMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T03:01:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Services\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\RoleInitializer.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Services\\RoleInitializer.cs",
+              "RelativeToolTip": "Lab15\\Services\\RoleInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:52:33.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Program.cs",
+              "RelativeDocumentMoniker": "Lab15\\Program.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Program.cs",
+              "RelativeToolTip": "Lab15\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:45:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab15\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\BackEnd-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\BackEnd\\Lab15\\Lab15\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab15\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:44:58.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
